@@ -120,7 +120,7 @@ Telegram: @humiliatedpeep
 
 VK: vk.com/asenje
 
-Email: [505373@niitmo.ru](mailto:505373@niitmo.ru)
+Email: [505373@niuitmo.ru](mailto:505373@niuitmo.ru)
 
 ---
 
