@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ffffff&height=200&section=header&text=Andrey%20Kalyachko&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Python%20Developer%20%7C%20Data%20%26%20ML%20%7C%20Homelab&descSize=18&descAlignY=58" width="100%" alt="header"/>
+# Andrey Kalyachko
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=2nd-year+student+at+ITMO+(AI+Technologies);Python+%2B+Data+Analysis+%2B+ML;Backend+and+self-hosted+infrastructure;Looking+for+a+data+analyst+internship" alt="typing"/>
+**Python Developer · Data and ML · Homelab**
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=FFFFFF&center=true&vCenter=true&width=600&lines=2nd-year+student+at+ITMO;Python,+data+analysis+and+ML;Backend+and+self-hosted+infrastructure;Looking+for+a+data+analyst+internship" alt="typing"/>
 
 <br><br>
 
@@ -115,26 +117,6 @@
 
 ---
 
-## Contribution snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Asenje/Asenje/output/github-snake-dark.svg" alt="snake" />
-
-</div>
-
-> The snake needs a GitHub Action, see the setup note below this README.
-
----
-
 ## Beyond code
 
 🎮 Dota 2 &nbsp;|&nbsp; 🎸 Grunge and rock &nbsp;|&nbsp; 🖧 Homelab and network setup &nbsp;|&nbsp; 🃏 Organizing a sport poker tournament
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:000000&height=100&section=footer" width="100%" alt="footer"/>
-
-</div>
